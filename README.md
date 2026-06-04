@@ -33,4 +33,4 @@
 ## Contact
 
 * IITM Email: [25f3004745@ds.study.iitm.ac.in](mailto:25f3004745@ds.study.iitm.ac.in)
-* Personal Email: [pv9034@gmail.com](mailto:pv9034@gmail.com)
+
