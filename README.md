@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Piyush Garg 👋
 
-<!--
-**pv9034-DS/pv9034-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* IIT Madras BS Data Science Student
+* Learning DevOps, AWS, Linux, and Web Development
+* Currently working as a School Accountant
+* Interested in Cloud Computing, Automation, and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Python
+* Linux
+* Git & GitHub
+* AWS
+* DevOps
+* Full Stack Web Development (Sigma 12)
+
+## Certifications
+
+* Introduction to Cloud Computing with GCP
+* Tutedude Python Course (In Progress)
+* Apna College Sigma 12 (In Progress)
+
+## Goals for 2026
+
+* Build a professional portfolio website
+* Learn Docker and AWS
+* Complete Sigma 12
+* Build real-world projects
+* Start applying for internships
+
+## Contact
+
+* IITM Email: [25f3004745@ds.study.iitm.ac.in](mailto:25f3004745@ds.study.iitm.ac.in)
+* Personal Email: [pv9034@gmail.com](mailto:pv9034@gmail.com)
