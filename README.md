@@ -34,6 +34,4 @@ Email: 25f3004745@ds.study.iitm.ac.in
 
 
 
-LinkedIn:
-
-https://linkedin.com/in/piyush-garg-iitm
+LinkedIn: https://linkedin.com/in/piyush-garg-iitm
