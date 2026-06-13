@@ -23,8 +23,7 @@ BS Data Science and Applications Student @ IIT Madras
 - Python Learning Hub
 - Linux Notes
 - Sigma Projects
-- Automation Projects
-- Data Analysis Projects
+- Certificates 
 
 ## Contact
 
