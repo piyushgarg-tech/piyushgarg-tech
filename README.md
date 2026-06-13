@@ -13,8 +13,7 @@ BS Data Science and Applications Student @ IIT Madras
 
 ## Currently Learning
 
-- SQL
-- Docker
+- Frontend
 - AWS
 - Data Structures & Algorithms
 
