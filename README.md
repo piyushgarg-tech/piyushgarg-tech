@@ -1,35 +1,71 @@
-# Piyush Garg
+# Hi, I'm Piyush Garg 👋
 
-BS Data Science and Applications Student @ IIT Madras
+🎓 BS in Data Science and Applications Student at IIT Madras
 
-## Focus Areas
+I'm passionate about technology and enjoy building practical skills in Web Development, DevOps, and Data Science. Alongside my studies, I work as a School Accountant, where I use Microsoft Excel and other office tools for day-to-day administrative and accounting tasks.
 
+---
+
+## 🚀 Current Focus
+
+- 🌐 Web Development
+- ⚙️ DevOps
+- 🐧 Linux
+- 🐍 Python
+- 🌱 Open Source
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 - Python
-- Data Analysis
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git
+- GitHub
 - Linux
-- Git & GitHub
-- DevOps
-- Web Development
+- Visual Studio Code
+- Microsoft Excel
 
-## Currently Learning
+---
 
-- Frontend
-- AWS
+## 📚 Currently Learning
+
+- JavaScript
+- React
+- AWS Cloud
 - Data Structures & Algorithms
 
-## Repositories
+---
 
-- Python Learning Hub
-- Linux Notes
-- Sigma Projects
-- Certificates 
+## 🎯 Goals
 
-## Contact
+- Contribute to Open Source
+- Participate in Hacktoberfest
+- Get selected for MLH Fellowship
+- Get selected for Google Summer of Code (GSoC)
+- Build scalable software by combining Full-Stack Development, DevOps, and Data Science.
 
+---
 
+## 📂 Featured Repositories
 
-Email: 25f3004745@ds.study.iitm.ac.in
+- 🐍 Python Learning Hub
+- 🐧 Linux Notes
+- 🌐 Sigma Projects
+- 📜 Certificates
 
+---
 
+## 📫 Connect with Me
 
-LinkedIn: https://linkedin.com/in/piyush-garg-iitm
+📧 **Email:** 25f3004745@ds.study.iitm.ac.in
+
+💼 **LinkedIn:** https://linkedin.com/in/piyush-garg-iitm
+
+---
+
+⭐ *Always learning, always building.*
